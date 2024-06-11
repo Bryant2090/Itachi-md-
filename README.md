@@ -1,15 +1,15 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> DRAGON MD </h1>
+ <h1 align="center"> ITACHI MD </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=AM+DRAGON+MD+BY+CREATED+BY+KING)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=RED&lines=AM+ITACHI+MD+CREATED+BY+BRYANT+TECH;YOUR'E+UNDER+MY+GENJUTSU)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> DRAGON MD💥, A Simple WhatsApp user BOT, Created by KING.
+<p align="center"> ITACHI MD💥, A Simple WhatsApp user BOT, Created by BRYANT TECH.
 </p>
 
 
@@ -39,7 +39,7 @@
 ## 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗧𝗛𝗘 𝗢𝗪𝗡𝗘𝗥 𝗨𝗦𝗜𝗡𝗚 𝗧𝗛𝗘 𝗕𝗘𝗟𝗢𝗪 𝗕𝗨𝗧𝗧𝗢𝗡 𝗔𝗣𝗣
 
 <p align="left">
-  <a href="https://wa.me/2349123721026?text=Hello%20aKeith~tech%20...%20I%20need%20some%20help%20in%20huncho%20md">
+  <a href="https://wa.me/233538230444?text=Hello%20aKeith~tech%20...%20I%20need%20some%20help%20in%20huncho%20md">
     <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
    
@@ -51,7 +51,7 @@
 
 1, <a href="https://github.com/Kingdavid3333/DRAGON-MD/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
 
-2, TAP ON King APP DOWN THERE
+2, TAP ON BRYANT TECH APP DOWN THERE
 
 
 
@@ -61,10 +61,10 @@
 
 4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use KING app..
 
-## 𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 HEROKU OR 𝐀𝐏𝐏 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘  DRAGON 𝐌𝐃
+## 𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 HEROKU OR 𝐀𝐏𝐏 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘  ITACHI 𝐌𝐃
 <h1 align="center">
  
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/kingdavid3333/DRAGON-MD&template=https://github.com/kingdavid3333/DRAGON-MD.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Bryant2090/itachi-MD&template=https://github.com/Bryant2090/Itachi-MD.git)***
 
 <br>
 
@@ -92,25 +92,25 @@
 ## Contributions
 
 
-Contributions to *DRAGON-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *ITACHI-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
 
 <br/> <div align="center">
-[![github](https://github.com/github.png?size=100)](https://github.com/keithkeizzah)
+[![github](https://github.com/github.png?size=100)](https://github.com/Bryant2090)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
-[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=keithkeizzah&show_icons=true&theme=radical)](https://github.com/keithkeizzah)
+[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryant2090&show_icons=true&theme=radical)](https://github.com/Bryant2090)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## License
 
-The *DRAGON-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *Itaachi-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *DRAGON-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by KING
+Enjoy the diverse features of the *Itachi-MD*  to enhance your Whatsapp more enjoyable
+☣Powered by Bryant tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
