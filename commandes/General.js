@@ -6,7 +6,7 @@ const { france } = require("../framework/france");
 const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
 const conf = require("../set");
 
-france({ nomCom: "owner", categorie: "General", reaction: "🧔" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "owner", categorie: "General", reaction: "💕" }, async (dest, zk, commandeOptions) => {
     const { ms , mybotpic } = commandeOptions;
     
   const thsudo = await isSudoTableNotEmpty()
@@ -59,12 +59,12 @@ france({ nomCom: "developer", categorie: "General", reaction: "🚘" }, async (d
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "France King", numero: "254710772666" },
-      { nom: "᚛keithkeizzah᚜", numero: "254748387615" },
+      { nom: "Bryant tech", numero: "233538230444" },
+      { nom: "᚛BryantXtech᚜", numero: "233530729233" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Oyaah 👊\n *Welcome to HUNCHO-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Keith Keizzah_*\n*◇AGE: 20*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV MOVIE: _ONE EYE_*\n*◇INSTAGRAM: https://www.instagram.com/keizzah_keith?igsh=MW12ZWRjOTZ2MWJyNQ==*\n*◇YouTube: https://www.youtube.com/@keithkeizzah*\n\n______________________________\n\n*🚖KEEP USING HUNCHO-MD🚖*\n\n\n_The following are my contacts_:\n:";
+    let message = "Oyaah 👊\n *Welcome to ITACHI-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Bryant tech_*\n*◇AGE: 20*\n*◇LOCATION: _In the universe_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YESSSS ❤️‍🔥*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV ANIME: _NARUTO_*\n*◇INSTAGRAM: https://www.instagram.com/Bryant_tech.1?igsh=MW12ZWRjOTZ2MWJyNQ==*\n*◇YouTube: https://www.youtube.com/@BryantXtech*\n\n______________________________\n\n*🥰KEEP USING ITACHI-MD🥰*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -100,7 +100,7 @@ france({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpt
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254748387615?text=hello_Keith_md_am_interested_in😂`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/233538230444?text=hello_Itachi_md_am_interested_in😂`},{quoted :ms})
 
 })
  
