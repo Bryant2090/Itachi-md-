@@ -1,9 +1,9 @@
 {
-  "name":"DRAGON-MD",
+  "name":"ITACHI-MD",
   "description":"Whatsapp bot by King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/c884364040fb390e5e32c.jpg",
-  "repository":"https://github.com/Kingdavid3333/DRAGON-MD",
+  "logo":"https://telegra.ph/file/cafd631df9f364cff9677.jpg",
+  "repository":"https://github.com/Bryant2090/Itachi-md-",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"DRAGON MD",
+      "value":"ITACHI MD",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "KING"
+    "value": "Bryant tech"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "2349123721026"
+    "value": "233538230444"
   },
     "WARN_COUNT":
   {
