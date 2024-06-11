@@ -1,6 +1,6 @@
 {
-  "name":"DRAGON-MD",
-  "description":"Whatsapp bot by King",
+  "name":"ITACHI-MD",
+  "description":"Whatsapp bot by Bryant tech",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/c884364040fb390e5e32c.jpg",
   "repository":"https://github.com/Kingdavid3333/DRAGON-MD",
@@ -16,7 +16,7 @@
     "AUTO_READ_STATUS":
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"yes",
+      "value":"no",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"DRAGON MD",
+      "value":"ITACHI MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/c884364040fb390e5e32c.jpg",
+      "value":"https://telegra.ph/file/d3e2629b6d72e74571de4.mp4",
       "required":false
        
      },
@@ -50,16 +50,16 @@
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
       "value":"yes",
-      "required":false
+      "required":true
     }
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "required" :false
+     "required" :true
     },
   "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (this is optionnal)",
-     "required" :false
+     "required" :true
     }  
 	  ,
     "SESSION_ID":
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "KING"
+    "value": "Bryant tech"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "2349123721026"
+    "value": "233538230444"
   },
     "WARN_COUNT":
   {
@@ -97,7 +97,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"1",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
