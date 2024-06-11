@@ -49,7 +49,7 @@
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, <a href="https://github.com/Bryant2090/ITACHI-MD/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
+1, <a href="https://github.com/Bryant2090/Itachi-md-/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
 
 2, TAP ON BRYANT TECH APP DOWN THERE
 
@@ -64,7 +64,7 @@
 ## 𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 HEROKU OR 𝐀𝐏𝐏 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘  ITACHI 𝐌𝐃
 <h1 align="center">
  
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Bryant2090/itachi-MD&template=https://github.com/Bryant2090/Itachi-MD.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Bryant2090/itachi-MD&template=https://github.com/Bryant2090/Itachi-md-.git)***
 
 <br>
 
