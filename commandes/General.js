@@ -55,7 +55,7 @@ france({ nomCom: "owner", categorie: "General", reaction: "💕" }, async (dest,
   }
 });
 
-france({ nomCom: "developer", categorie: "General", reaction: "🚘" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "developer", categorie: "General", reaction: "😈" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
@@ -64,7 +64,7 @@ france({ nomCom: "developer", categorie: "General", reaction: "🚘" }, async (d
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Oyaah 👊\n *Welcome to ITACHI-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Bryant tech_*\n*◇AGE: 20*\n*◇LOCATION: _In the universe_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YESSSS ❤️‍🔥*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV ANIME: _NARUTO_*\n*◇INSTAGRAM: https://www.instagram.com/Bryant_tech.1?igsh=MW12ZWRjOTZ2MWJyNQ==*\n*◇YouTube: https://www.youtube.com/@BryantXtech*\n\n______________________________\n\n*🥰KEEP USING ITACHI-MD🥰*\n\n\n_The following are my contacts_:\n:";
+    let message = "Hello ❤️\n *Welcome to ITACHI-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Bryant tech_*\n*◇AGE: 20*\n*◇LOCATION: _In the universe_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YESSSS ❤️‍🔥*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV ANIME: _NARUTO_*\n*◇INSTAGRAM: https://www.instagram.com/Bryant_tech.1?igsh=MW12ZWRjOTZ2MWJyNQ==*\n*◇YouTube: https://www.youtube.com/@BryantXtech*\n\n______________________________\n\n*🥰KEEP USING ITACHI-MD🥰*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
